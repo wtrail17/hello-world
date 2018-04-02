@@ -4,3 +4,7 @@
  where + 5 + 5 =
  
  I am eating goldfish crackers right now.
+
+ticket = [47 , 5, 54, 6, 9]
+
+ticket
